@@ -127,8 +127,7 @@ public class ListAdapter extends ArrayAdapter<Song> {
 
                                        } );
 
-// issues
-// text, text not moving
+
 
 
 
@@ -167,7 +166,7 @@ public class ListAdapter extends ArrayAdapter<Song> {
 
 
 
-        // set seekbar
+
 
 
 
